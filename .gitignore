@@ -1,8 +1,72 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+
+#
+# gitinore padrao do Springboot------------------------------------------------------------------------------
+#
+# Build tool outputs
+out/
+
+# IDE specific files
+.idea/
+.settings/
+.nb-gradle/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Sensitive configuration (NEVER commit real credentials)
+.env
+application-local.properties
+application-local.yml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
+
+
+#
+# gitignore padrao do java ----------------------------------------------------------------------------------------------------------
+#
 # Compiled class file
 *.class
-
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
