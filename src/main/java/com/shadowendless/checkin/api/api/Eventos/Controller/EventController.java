@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import java.time.LocalDateTime;
 
 @RestController
-@RequestMapping({"/eventos"})
+@RequestMapping({"/events"})
 public class EventController {
 
     @GetMapping
@@ -60,10 +60,7 @@ public class EventController {
                 visitorService.merge(v, event)
         );
 
-        return "Sync completo!!!";
+        return "OK!!!";
     }
-
-
-
 
 }
