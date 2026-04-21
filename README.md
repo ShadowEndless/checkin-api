@@ -380,4 +380,4 @@ mvn test
 
 ## 📄 Licença
 
-A definir
+MIT
