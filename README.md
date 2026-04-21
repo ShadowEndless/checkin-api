@@ -11,6 +11,10 @@ API backend para sincronização de eventos e controle de presença via QR Code.
 ![Mockito](https://img.shields.io/badge/Mockito-5.x-78A641?style=for-the-badge)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-1.19-9B4D96?style=for-the-badge&logo=testcontainers&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![QR Code](https://img.shields.io/badge/QR_Code-000000?style=for-the-badge&logo=qrcode&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-❤️-3da639?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ## 🎯 Objetivo
